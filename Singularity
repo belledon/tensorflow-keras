@@ -10,7 +10,3 @@ From: tensorflow/tensorflow:1.3.0-gpu-py3
     apt-get install -y libcupti-dev
     pip3 install --upgrade pip
     pip3 install keras
-    pip3 install lxml
-    pip3 install joblib
-    pip3 install h5py
-    pip3 install python_speech_features
