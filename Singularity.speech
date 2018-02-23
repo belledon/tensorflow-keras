@@ -9,13 +9,9 @@ From: tensorflow/tensorflow:1.3.0-gpu-py3
 
     apt-get install -y libcupti-dev
     pip3 install --upgrade pip
-<<<<<<< HEAD:Singularity.speech
     pip3 install  keras \
                   lxml \
                   joblib \
                   h5py \
                   python_speech_features \
                   sox
-=======
-    pip3 install keras
->>>>>>> f6ef2b6887ad7a8175608cdbdee1bf23541db645:Singularity
